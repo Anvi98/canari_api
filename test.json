@@ -1,0 +1,138 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "company-name": "23andMe",
+      "website": "23andme.com",
+      "address": "899 W Evelyn Ave",
+      "city": "Mountain View",
+      "state": "CA",
+      "zip": 94041,
+      "latitude": 37.395208,
+      "longitude": -122.079159,
+      "company-description": "Discover what 125+ personalized reports have to say about your ancestry, health, traits and more.",
+      "tech-stack": "javascript, jquery, python, nginx, java, cloudflare, apache http serve, css3, jquery ui, django, modernizr, ruby, asp.net, swift, go, objective-c, backbone.js, c-lang, shell, lodash, moment.js, perl, d3.js, underscore, powershell, foundation, chart.js, nvd3, new relic"
+    },
+    {
+      "id": 2,
+      "company-name": "280 Group",
+      "website": "280group.com",
+      "address": "142B S Santa Cruz Ave",
+      "city": "Los Gatos",
+      "state": "CA",
+      "zip": 95030,
+      "latitude": 37.220624,
+      "longitude": -121.985589,
+      "company-description": "Let 280 Group help you leverage our proven process for Product Management and Product Marketing through training, certification, consulting, and more.",
+      "tech-stack":"php, adobe dreamweaver, bootstrap, jsdelivr, javascript, wordpress, jquery, react, moment.js, modernizr, nginx, apache, corejs, mustache"
+      
+    },
+
+    {
+      "id": 3,
+      "company-name": "5AM Ventures",
+      "website": "5amventures.com",
+      "address": "2200 Sand Hill Road",
+      "city": "Menlo Park",
+      "state": "CA",
+      "zip": 94025,
+      "latitude": 37.422774,
+      "longitude": -122.199215,
+      "company-description": "5AM Ventures is a leading venture capital firm focused on building next-generation life science companies capable of delivering outstanding returns to our investors.",
+      "tech-stack":"javascript, slickjs, cloudflare, nginx, varnish, php7, ionic, jquery, jquery ui, zeptojs, react, moment.js, backbone.js, jira, lodash, html5, css3, d3.js, redux, typeahead.js"
+    },
+    {
+      "id": 4,
+      "company-name": "Accel",
+      "website": "www.accel.com",
+      "address": "2500 Sand Hill Road",
+      "city": "Menlo Park",
+      "state": "CA",
+      "zip": 94025,
+      "latitude": 37.421750,
+      "longitude": -122.204843,
+      "company-description": "We partner with exceptional founders with unique insights, from inception through all phases of growth.",
+      "tech-stack":"new relic, php, express, ruby on rails, heroku, lavarel, openresty, adobe dreamweaver, cloudflare, jsdelivr, ajax libraries api, cdn, jquery, webflow, react,lodash, modernizr, gsap, backbone.js, nginx, apache"
+    },
+    {
+      "id": 5,
+      "company-name": "Addepar",
+      "website": "addepar.com",
+      "address": "303 Bryant St",
+      "city": "Mountain View",
+      "state": "CA",
+      "zip": 94041,
+      "latitude": 37.392670,
+      "longitude": -122.080849,
+      "company-description": "Addepar is the first performance reporting platform that easily handles all of your assets, connecting your financial goals and objectives with real world actionable insights.",
+      "tech-stack":"javascript, emberjs, lodash, jquery, d3.js, sass, buck, broccoli, bower, grunt, mysql, mongodb, express, redis, memcached, elasticsearch, spark, guice, jook, hamburgersandwich"
+    },
+    {
+      "id": 6,
+      "company-name": "Adecco Group",
+      "website": "www.adeccogroup.com",
+      "address": "903 Sneath Ln Ste 123",
+      "city": "San Bruno",
+      "state": "CA",
+      "zip": 94066,
+      "latitude": 37.635000,
+      "longitude": -122.424555,
+      "company-description": "In the world of work, The Adecco Group is the world's leading provider of temporary staffing, permanent placement, career transition and talent development",
+      "tech-stack":"jquery, bootstrap, jquery ui, modernizr, asp.net, moment.js, ionicons"
+    },
+    {
+      "id": 7,
+      "company-name": "Adobe",
+      "website": "www.adobe.com",
+      "address": "601 Townsend St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": 94103,
+      "latitude": 37.771206,
+      "longitude": -122.401662,
+      "company-description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
+      "tech-stack": "javascript, apache cordova, git, slack, php, akamai, html5"
+    },
+    {
+      "id": 8,
+      "company-name": "AgilOne",
+      "website": "acquia.com",
+      "address": "771 Vaqueros Ave",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": 94085,
+      "latitude": 37.395589,
+      "longitude": -122.031758,
+      "company-description": "AgilOne is now part of Acquia. AgilOne is a customer data platform for enterprise B2C companies. AgilOne's vision is to restore the personal relationships companies once had with customers before channel-specific marketing silos got in the way. Through a single view of customers across all channels, predictive models to understand customer behavior, and real-time APIs to orchestrate personalized experiences across all touch-points, AgilOne creates authentic omni-channel customer relationships that maximize lifetime value.",
+      "tech-stack":"new relic, php, ruby on rails, cloudflare, akamai, drupal, modernizr, jquery, polyfill IO, jquery ui,require js, nginx, apache, varnish, amazon s3, bootstrap, react, babel, moment.js, html5, lodash, express, angular, nextjs"
+    },
+    {
+      "id": 9,
+      "company-name": "Alation",
+      "website": "alation.com",
+      "address": "805 Veterans Blvd #307",
+      "city": "Redwood City",
+      "state": "CA",
+      "zip": 94063,
+      "latitude": 37.491223,
+      "longitude": -122.228606,
+      "company-description": "Alation's Data Catalog empowers analysts & information stewards to search, query and collaborate for fast, accurate insights and confident decision-making.",
+      "tech-stack":"bootstrap, cloudflare, digital ocean, wordpress, akamai, javascript, jquery, lodash, modernizr, nginx, express, moment.js, chart.js, python, django"
+    },
+    {
+      "id": 10,
+      "company-name": "AlienVault",
+      "website": "www.alienvault.com",
+      "address": "1100 Park Pl #300",
+      "city": "San Mateo",
+      "state": "CA",
+      "zip": 94403,
+      "latitude": 37.545105,
+      "longitude": -122.290819,
+      "company-description": "At AT&T Cybersecurity our mission is to provide phenomenal threat intelligence, collaborative defense & effective security for organizations of all sizes.",
+      "tech-stack":"angular, javascript, modernizr, jquery ui, bootstrap, cloudflare, nginx, lodash, moment.js, react"
+    }
+  ]
+}
+
+ 
