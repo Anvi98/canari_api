@@ -33,8 +33,9 @@ async def root():
 
 @app.get("/testy")
 def comp(db: Session = Depends(database.get_db)):
+  res = db.query(models.Company).all()
 
-  return {"DB": "Db working"}
+  return {"DB": "Db working", "Data": res}
   
 @app.get("/search")
 async def search(stack: str, city: str, db: Session = Depends(database.get_db)):
